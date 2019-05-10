@@ -13,7 +13,7 @@ class CuboidMaker{
   constructor(cubeoi){
      this.length = cubeoi.length;
       this.width = cubeoi.width;
-      this.height = cubeoi.height; 
+      this.height = cube0i.height; 
   }
 
 
